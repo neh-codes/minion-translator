@@ -4,5 +4,5 @@
 
 📌 Tech Stack: HTML, CSS, JavaScript
 
-📌 See the Project Live <a href="https://neh-codes-minion-translator.netlify.app/" target="_blank">Here</a>
+📌 See the Project Live <a href="https://cash-register-neh-codes.netlify.app/" target="_blank">Here</a>
 
